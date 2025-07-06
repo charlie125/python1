@@ -25,7 +25,10 @@ while True:
     print('Welcome to use Library searching system')
     x = input('Would you like to search[S], add new book[A] or Quit[Q]?:')
 
-# library searching system
+# Searching feature
+# Revise if statement to for loop
+# Updated at 6/Jul/2025
+
     if x.lower() == 's':
         search_function = input('Enter book number that you are looking for:')
 
@@ -40,7 +43,7 @@ while True:
         else:
             print('This book isn\'t available right now!')
 
-# add new book
+# Add new book
     elif x.lower() == 'a':
         name = input("Name of Book:")
         number = input("Number of book:")
