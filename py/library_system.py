@@ -70,4 +70,4 @@ while True:
         break
 
     else:
-        print('Invaild input')
+        print('Invalid input')
