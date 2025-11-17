@@ -1,0 +1,19 @@
+{
+      "students": [
+            {
+                  "name": "Alice",
+                  "age": 20,
+                  "score": 85
+            },
+            {
+                  "name": "Bob",
+                  "age": 22,
+                  "score": 78
+            },
+            {
+                  "name": "Charlie",
+                  "age": 21,
+                  "score": 90
+            }
+      ]
+}
